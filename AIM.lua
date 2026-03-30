@@ -135,5 +135,5 @@ RunService.RenderStepped:Connect(function()
     HandleAiming()
 end)
 
--- Initialize
+-- Initialise
 InitializeFOV()
